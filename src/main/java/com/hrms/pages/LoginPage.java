@@ -16,5 +16,3 @@ public class LoginPage extends CommonUsage {
     }
        
 }
-//project completed hrms
-// adactin project completed
